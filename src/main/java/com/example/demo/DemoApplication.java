@@ -15,6 +15,6 @@ public class DemoApplication {
 
 	@RequestMapping("/")
 	String sayHello() {
-		return "Hello World! ZEBS I am your JAVA EE 11 MICROSOFT AZURE merci @2023";
+		return "Bonjour Monde. I'm just testing the Spring project deployment in AZURE. It's OK now. @2023";
 	}
 }
